@@ -117,7 +117,6 @@ EDA was performed to understand patterns within the dataset.
 - Histograms
 - Word Clouds
 
-> 📌 Add screenshots of your EDA graphs here.
 
 ---
 
@@ -216,7 +215,7 @@ The confusion matrix helps visualize:
 - False Positives
 - False Negatives
 
-> 📌 Add confusion matrix screenshots here.
+
 
 ---
 
